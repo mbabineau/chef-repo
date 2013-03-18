@@ -1,1 +1,0 @@
-default[:icinga][:pagerduty][:service_key] = "<YOUR SERVICE KEY>"
